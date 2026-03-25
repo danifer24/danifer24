@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**danifer24/danifer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy desarrollador con formación en Desarrollo de Aplicaciones Multiplataforma.  
+Actualmente estoy enfocado en mejorar mis habilidades y ganar experiencia creando proyectos propios.
 
-Here are some ideas to get you started:
+- 💻 Interesado en desarrollo backend y aplicaciones web
+- 🌱 Aprendiendo nuevas tecnologías cada día
+- 🎯 Objetivo: conseguir mi primera oportunidad profesional como desarrollador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Estudios y certificaciones
+- 📘 FP Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 📚 Cursos adicionales:
+  - [Nombre del curso] – [Plataforma]
+  - [Nombre del curso] – [Plataforma]
+
+---
+
+## 🛠️ Tecnologías
+### Lenguajes
+- Java
+- JavaScript
+- SQL
+
+### Backend
+- Spring Boot
+
+### Frontend
+- React (en aprendizaje)
+
+### Herramientas
+- Git & GitHub
+- Eclipse
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+- Email: [tuemail@email.com]
+- LinkedIn: [tu perfil]
