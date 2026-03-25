@@ -1,8 +1,7 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Daniel Vázquez
 
 ## 🚀 Sobre mí
-Soy desarrollador con formación en Desarrollo de Aplicaciones Multiplataforma.  
-Actualmente estoy enfocado en mejorar mis habilidades y ganar experiencia creando proyectos propios.
+Soy desarrollador con formación en Desarrollo de Aplicaciones Multiplataforma, actualmente estoy cursando un bootcamp de programación con Inteligencia Artificial, con especial enfoque en IA generativa y desarrollo de agentes. Durante este proceso estoy adquiriendo experiencia práctica en tecnologías modernas y aplicándolas en proyectos reales. Actualmente me encuentro en búsqueda activa de una oportunidad laboral en el sector IT donde poder aportar valor y seguir creciendo como desarrollador.
 
 - 💻 Interesado en desarrollo backend y aplicaciones web
 - 🌱 Aprendiendo nuevas tecnologías cada día
@@ -13,8 +12,9 @@ Actualmente estoy enfocado en mejorar mis habilidades y ganar experiencia creand
 ## 🎓 Estudios y certificaciones
 - 📘 FP Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 📚 Cursos adicionales:
-  - [Nombre del curso] – [Plataforma]
-  - [Nombre del curso] – [Plataforma]
+  - Certificado de profesionalidad nivel 3 en desarrollo web
+  - Certificación React y Spring Boot – Udemy: https://www.udemy.com/certificate/UC-76678b71-34d1-4598-8cfd-67f92f7577ca/
+  - Actualmente: Bootcamp de programación con IA en 4Geeks Academy
 
 ---
 
@@ -23,27 +23,24 @@ Actualmente estoy enfocado en mejorar mis habilidades y ganar experiencia creand
 - Java
 - JavaScript
 - SQL
+- HTML
+- CSS
 
 ### Backend
 - Spring Boot
 
 ### Frontend
-- React (en aprendizaje)
-
-### Herramientas
-- Git & GitHub
-- Eclipse
-- VS Code
+- React
 
 ---
 
 ## 📊 GitHub Stats
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=danifer24&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=danifer24&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
-- Email: [tuemail@email.com]
-- LinkedIn: [tu perfil]
+- Email: danielvf24@gmail.com
+- LinkedIn: https://www.linkedin.com/in/daniel-vázquez-fernández-5a31b3244/
