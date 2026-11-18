@@ -1,7 +1,7 @@
 # 👋 Hola, soy Daniel Vázquez
 
 ## 🚀 Sobre mí
-Soy **desarrollador** con formación en **Desarrollo de Aplicaciones Multiplataforma**, actualmente estoy cursando un bootcamp de programación con **Inteligencia Artificial**, con especial enfoque en **IA generativa** y desarrollo de **agentes**. Durante este proceso estoy adquiriendo experiencia práctica en tecnologías modernas y aplicándolas en proyectos reales. Actualmente me encuentro en búsqueda activa de una oportunidad laboral en el sector IT donde poder aportar valor y seguir creciendo como desarrollador.
+Ingeniero de IA con formación en Desarrollo de Aplicaciones Multiplataforma y enfoque en IA generativa, desarrollo de agentes y automatización con n8n, MCP, FastAPI, LangGraph y RAG. Busco una oportunidad laboral en el sector IT donde aportar mi formación y seguir creciendo en ingeniería de IA.
 
 - 💻 **Interesado** en desarrollo backend y aplicaciones web
 - 🌱 **Aprendiendo** nuevas tecnologías cada día
