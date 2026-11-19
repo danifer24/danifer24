@@ -1,5 +1,7 @@
 # 👋 Hola, soy Daniel Vázquez
 
+### AI Engineer | LLMs, RAG y Sistemas Agénticos | Python · FastAPI · React
+
 ## 🚀 Sobre mí
 Ingeniero de IA con formación en Desarrollo de Aplicaciones Multiplataforma y enfoque en IA generativa, desarrollo de agentes y automatización con n8n, MCP, FastAPI, LangGraph y RAG. Busco una oportunidad laboral en el sector IT donde aportar mi formación y seguir creciendo en ingeniería de IA.
 
