@@ -5,18 +5,18 @@
 ## 🚀 Sobre mí
 Ingeniero de IA con formación en Desarrollo de Aplicaciones Multiplataforma y enfoque en IA generativa, desarrollo de agentes y automatización con n8n, MCP, FastAPI, LangGraph y RAG. Busco una oportunidad laboral en el sector IT donde aportar mi formación y seguir creciendo en ingeniería de IA.
 
-- 💻 **Interesado** en desarrollo backend y aplicaciones web
+- 💻 **Interesado** en automatización de procesos
 - 🌱 **Aprendiendo** nuevas tecnologías cada día
-- 🎯 **Objetivo**: conseguir mi primera oportunidad profesional como desarrollador
+- 🎯 **Objetivo**: seguir desarrollándome como programador
 
 ---
 
 ## 🎓 Estudios y certificaciones
+- 💻 Ingeniería de IA
 - 📘 FP Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 📚 Cursos adicionales:
   - Certificado de profesionalidad nivel 3 en desarrollo web
   - Certificación React y Spring Boot – Udemy: https://www.udemy.com/certificate/UC-76678b71-34d1-4598-8cfd-67f92f7577ca/
-  - Actualmente: Bootcamp de programación con IA en 4Geeks Academy
 
 ---
 
@@ -45,4 +45,4 @@ Ingeniero de IA con formación en Desarrollo de Aplicaciones Multiplataforma y e
 
 ## 📫 Contacto
 - Email: danielvf24@gmail.com
-- LinkedIn: https://www.linkedin.com/in/daniel-vázquez-fernández-5a31b3244/
+- LinkedIn: https://www.linkedin.com/in/daniel-vázquez-fernández/
